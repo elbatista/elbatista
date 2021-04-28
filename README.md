@@ -11,15 +11,15 @@ Recently I've been working on optimized data structure in state transference pro
 ## Education
 
 **Ph.D. in Informatics**
-
+<br/>
 Università della Svizzera italiana (USI) • Lugano, Switzerland • Currently
 
 **M.Sc. in Computer Science**
-
+<br/>
 PUC-RS • Porto Alegre, RS, Brazil • 2020
 
 **B.Sc. in Computer Science**
-
+<br/>
 PUC-RS • Porto Alegre, RS, Brazil • 2011
 
 <br/>
@@ -28,7 +28,7 @@ PUC-RS • Porto Alegre, RS, Brazil • 2011
 ## Teaching assistance
 
 **Operating Systems**
-
+<br/>
 Università della Svizzera italiana (USI), Lugano, Switzerland • Spring 2021
 
 <br/>
@@ -48,19 +48,19 @@ Università della Svizzera italiana (USI), Lugano, Switzerland • Spring 2021
 ## Work experience
 
 **Senior Software Developer**
-
+<br/>
 Compasso Tecnologia Ltda, Porto Alegre, RS, Brazil • 2017 - 2020
 
 **System Analyst**
-
+<br/>
 Bem Promotora de Vendas e Serviços SA, Porto Alegre, RS, Brazil • 2014 - 2017
 
 **Software Developer**
-
+<br/>
 DBServer Assessoria em Sistemas de Informação Ltda, Porto Alegre, RS, Brazil • 2010 - 2013
 
 **Junior Software Developer**
-
+<br/>
 Vensis Sistemas de Informação Ltda, Porto Alegre, RS, Brazil • 2008 - 2010
 
 <!---
