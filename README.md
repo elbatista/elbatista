@@ -27,6 +27,10 @@ PUC-RS • Porto Alegre, RS, Brazil • 2011
 
 ## Teaching assistance
 
+**Systems Programming**
+<br/>
+Università della Svizzera italiana (USI), Lugano, Switzerland • Fall 2021
+
 **Operating Systems**
 <br/>
 Università della Svizzera italiana (USI), Lugano, Switzerland • Spring 2021
