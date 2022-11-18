@@ -44,11 +44,19 @@ Università della Svizzera italiana (USI), Lugano, Switzerland • Spring 2021
 
 ## Publications
 
+**Early Scheduling on Steroids: Boosting Parallel State Machine Replication**
+<br/>
+*Eliã Batista; Eduardo Alchieri; Fernando Dotti; Fernando Pedone*
+<br/>
+Journal of Parallel and Distributed Computing, Volume 163, May 2022, Pages 269-282
+
+<br/>
+
 **Resource Utilization Analysis of Early Scheduling in Parallel State Machine Replication**
 <br/>
 *Eliã Batista; Eduardo Alchieri; Fernando Dotti; Fernando Pedone*
 <br/>
-2019 9th Latin-American Symposium on Dependable Computing (LADC)
+Latin-American Symposium on Dependable Computing, 2019
 
 <br/>
 
