@@ -2,9 +2,7 @@
 
 I am currently a PhD researcher at Università della Svizzera italiana (USI), Lugano, Switzerland, in the Distributed Systems Group led by Prof. Fernando Pedone.
 
-My research interests include the theory and practice of distributed dependable systems, more specifically the replication paradigm, parallel SMR scheduling, state management and recovery.
-
-Recently I've been working on optimized data structure in state transference protocols, mainly in large application state scenarios.
+My research interests include the theory and practice of distributed dependable systems, replication paradigm, parallel SMR scheduling, state management and recovery, optimized data structure in state transference protocols, and genuine atomic multicast algorithms.
 
 <br/>
 
@@ -75,9 +73,6 @@ Bem Promotora de Vendas e Serviços SA, Porto Alegre, RS, Brazil • 2014 - 2017
 <br/>
 DBServer Assessoria em Sistemas de Informação Ltda, Porto Alegre, RS, Brazil • 2010 - 2013
 
-**Junior Software Developer**
-<br/>
-Vensis Sistemas de Informação Ltda, Porto Alegre, RS, Brazil • 2008 - 2010
 
 <!---
 elbatista/elbatista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
