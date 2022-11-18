@@ -27,6 +27,10 @@ PUC-RS • Porto Alegre, RS, Brazil • 2011
 
 ## Teaching assistance
 
+**Distributed Algorithms**
+<br/>
+Università della Svizzera italiana (USI), Lugano, Switzerland • Fall 2022
+
 **Systems Programming**
 <br/>
 Università della Svizzera italiana (USI), Lugano, Switzerland • Fall 2021
