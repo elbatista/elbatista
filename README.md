@@ -8,7 +8,7 @@ My research interests include the theory and practice of distributed dependable 
 
 ## Education
 
-**Ph.D. in Informatics**
+**Ph.D. candidate in Informatics**
 <br/>
 Università della Svizzera italiana (USI) • Lugano, Switzerland • Currently
 
@@ -59,13 +59,13 @@ Latin-American Symposium on Dependable Computing, 2019
 <br/>
 
 
-## Work experience
+## Industry experience
 
 **Senior Software Developer**
 <br/>
 Compasso Tecnologia Ltda, Porto Alegre, RS, Brazil • 2017 - 2020
 
-**System Analyst**
+**Software Developer and System Analyst**
 <br/>
 Bem Promotora de Vendas e Serviços SA, Porto Alegre, RS, Brazil • 2014 - 2017
 
