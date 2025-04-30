@@ -4,7 +4,8 @@ I am currently a PhD researcher at Università della Svizzera italiana (USI), Lu
 
 My research interests include the theory and practice of distributed dependable systems, replication paradigm, parallel SMR scheduling, state management and recovery, optimized data structure in state transference protocols, and genuine atomic multicast algorithms.
 
-PS.: This page is not updated. Please visit elbatista.github.io
+PS.: This page is not updated. Please visit [elbatista.github.io](https://elbatista.github.io)
+ elbatista.github.io
 
 <br/>
 
